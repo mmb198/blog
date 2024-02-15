@@ -1,3 +1,73 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://mmb198.github.io"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+theme = "hermit-v2"
+
+languageCode = "en-au"
+
+title = "mmb198 blog site"
+# enableGitInfo = true
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+#hasCJKLanguage = true
+
+rssLimit = 10
+
+copyright = "mmb198"
+enableEmoji = true
+
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "mmb198"
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+  # category = "categories"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # description = "mmb198 Blog site about my adventures in cloud, network engineering and cybersecurity"
+  # images = [""]
+  themeColor = "#494f5c"
+
+  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
+  footerCopyright = "mmb198"
+  # bgImg = ""
+  gitUrl = "https://github.com/mmb198"
+
+  justifyContent = false
+
+  relatedPosts = true
+  code_copy_button = true
+
+  homeSubtitlePrinter = true
+  scrollToTop = true 
+  global_mathjax = false
+  readTime = true
+  readTimeSeparator = "- Read time = "
+  # legacyLayout = false
+  shareSocial = true
+  # googleTagManager = "GTM-XXXXXXXX"
+  # tagSymbol = "#"
+  # categorySymbol = "?"
+  
+   [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/mmb198"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20
