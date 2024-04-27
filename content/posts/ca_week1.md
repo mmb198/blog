@@ -1,11 +1,11 @@
 ---
-title: "Cloud Engineer Academy Week 1 Blog"
+title: "Cloud Engineer Academy Module 1 Blog - Cloud Fundamentals"
 date: 2024-02-14T21:25:43+08:00
 toc: false
 images:
 tags: 
   - cloudengineeringacademy
-  - week1
+  - module1
 ---
 I've embarked on a 12 week Cloud Engineering Academy, with the aim to increase my knowledge and skills in cloud computing. This is my first blog and I will be using this blog space to post summaries of my weekly study. The blog is currently hosted on Github and I am aiming to move the blog onto my cloud host as I progress through the course.
 

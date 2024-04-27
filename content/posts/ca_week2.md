@@ -1,11 +1,11 @@
 ---
-title: "Cloud Engineer Academy Week 2 Blog"
+title: "Cloud Engineer Academy Module 2 Blog - Git & Cloud Architecture"
 date: 2024-02-21T21:37:43+08:00
 toc: false
 images:
 tags: 
   - cloudengineeringacademy
-  - week2
+  - module2
 ---
 
 # Version Control
